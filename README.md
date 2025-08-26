@@ -1,16 +1,16 @@
 # Hola 👋, soy Máximo
 
-🎓 Estudiante de Ingeniería en Sistemas  
+🎓 Estudiante de 5to año de Ingeniería en Sistemas  
 💻 Apasionado por el Desarrollo de Software  
-🤖 Interesado en Inteligencia Artificial y Machine Learning  
-📊 Explorando la Ciencia de Datos y el Análisis Predictivo  
+🤖 Estudiando Inteligencia Artificial y Machine Learning  
+📊 Aprendiendo sobre Ciencia de Datos y el Análisis Predictivo  
 
 ---
 
 ### 🌟 Sobre mí
-- 🌱 En constante aprendizaje y construcción de proyectos  
-- 🚀 Me interesa aplicar la tecnología para resolver problemas reales  
-- 🤝 Abierto a colaborar en proyectos de desarrollo, IA y data science  
+-  En constante aprendizaje y construcción de proyectos  
+-  Me interesa aplicar la tecnología para resolver problemas reales  
+-  Abierto a colaborar en proyectos de desarrollo, IA y data science  
 
 ---
 
@@ -31,6 +31,4 @@
 
 
 ---
-
-✨ *Siempre aprendiendo, siempre creando.*
 
