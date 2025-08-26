@@ -23,8 +23,8 @@
 ---
 
 ### 📫 Cómo contactarme
-- ✉️ Email: [maximoronco8@gmail.com](mailto:tuemail@ejemplo.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/m%C3%A1ximo-ronco/] 
+- ✉️ Email: [maximoronco8@gmail.com](mailto:[maximoronco8@gmail.com)  
+- 💼 LinkedIn: [Máximo Ronco](https://www.linkedin.com/in/m%C3%A1ximo-ronco/) 
 - 🌐 Portfolio: [Mi Portfolio](https://maximoronco.vercel.app/)  
 
 ---
