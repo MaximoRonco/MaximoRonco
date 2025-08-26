@@ -23,6 +23,13 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximoRonco&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoRonco&layout=compact&theme=tokyonight)  
+
+---
+
 
 ### 📫 Cómo contactarme
 
